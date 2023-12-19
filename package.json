@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-at",
+  "version": "1.0.0",
+  "description": "Random String Messages-at",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrests32/random-str-msg-at.git"
+  },
+  "keywords": [],
+  "author": "Andres Terraza <andresterraza.at@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrests32/random-str-msg-at.git"
+  },
+  "homepage": "https://github.com/andrests32/random-str-msg-at.git",
+  "bin": {
+    "random-str-msg-at": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
